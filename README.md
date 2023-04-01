@@ -1,4 +1,5 @@
-![logo](https://github.com/ChandanPandeygithub/ChandanPandeygithub/blob/main/Github%20Banner.png)
+
+[![MasterHead](https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c)]( https://ChandanPandeygithub.io)
 <h1 align="center">Hi 👋, I'm Chandan Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">

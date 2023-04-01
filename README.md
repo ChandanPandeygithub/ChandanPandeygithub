@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanpandeygithub&label=Profile%20views&color=0e75b6&style=flat" alt="chandanpandeygithub" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanpandeygithub" alt="chandanpandeygithub" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/_chandan_pandey" target="blank"><img src="https://img.shields.io/twitter/follow/_chandan_pandey?logo=twitter&style=for-the-badge" alt="_chandan_pandey" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js,DSA with javascript**
 
@@ -20,8 +23,8 @@
 <a href="https://twitter.com/_chandan_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_chandan_pandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erchandanpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erchandanpandey" height="30" width="40" /></a>
 <a href="https://codesandbox.com/officialchandanpandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="officialchandanpandey1" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/chandan-kamal-pandey/100010018334922/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/chandan-kamal-pandey/100010018334922/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/chandanpandey__/?igshid=zddkntzintm%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chandanpandey__/?igshid=zddkntzintm%3d" height="30" width="40" /></a>
+<a href="https://fb.com/chandan kamal pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandan kamal pandey" height="30" width="40" /></a>
+<a href="https://instagram.com/chandanpandey__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandanpandey__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

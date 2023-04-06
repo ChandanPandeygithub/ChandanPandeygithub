@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js,DSA with javascript**
 
-- 👨‍💻 All of my projects are available at [ChandanPandeygithub.github.io](ChandanPandeygithub.github.io)
+- 👨‍💻 All of my projects are available at [ChandanPandeygithub.github.io](chandanpandeygithub.github.io)
 
 - 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
 - 📫 How to reach me **officialchandanpandey1@gmail.com**

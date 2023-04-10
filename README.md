@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript,React,Redux,Typescript,Next.js,Node.js Express.js,MongoDB**
 - 📫 How to reach me **officialchandanpandey1@gmail.com**
-- <h2><a href="https://drive.google.com/file/d/1__hf9Jp0bKgOyrmdR8DCZwBS--sFR5A-/view?usp=share_link" target="_blank">📜 Download_Resume</a></h2>
+- <h2><a href="https://drive.google.com/drive/folders/1jbU8Rdf4ADaV6PeoEaIZyfP_gZ0Gj2ts?hl=en_GB" target="_blank">📜 Download_Resume</a></h2>
 
 - ⚡ Fun fact **I am funny😅**
 
